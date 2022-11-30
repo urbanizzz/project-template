@@ -1,0 +1,9 @@
+.stack-work/
+.vim/
+.vscode/
+.history/
+*~
+*.cabal
+*.log
+config.yaml
+

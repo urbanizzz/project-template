@@ -1,0 +1,12 @@
+# config file example
+# rename this file to config.yaml
+logger:
+  # handle of logger: "stderr", "stdout" or "path/to/file"
+  path: "./logfile.log"
+  # path: "stdout"
+  # logger levels: debug, info, warning, error
+  logLevel: debug
+
+projectConfig:
+  field: "fandaranga"
+
